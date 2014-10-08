@@ -12,14 +12,14 @@ title: Quick tour of the Octo-Bars
 ![Speakeasy](http://ajjimenez.github.io/Octo-Bar/images/IMG_6491.JPG =640x)
 
 
-![Speakeasy](http://ajjimenez.github.io/Octo-Bar/images/IMG_6492.JPG =640x)
+![Speakeasy Interior](http://ajjimenez.github.io/Octo-Bar/images/IMG_6492.JPG =640x)
 The Speakeasy
 
-![Speakeasy](http://ajjimenez.github.io/Octo-Bar/images/IMG_6493.JPG =640x)
+![Bar Org](http://ajjimenez.github.io/Octo-Bar/images/IMG_6493.JPG =640x)
 
 Speakeasy Bar Organization
 
-![Speakeasy](http://ajjimenez.github.io/Octo-Bar/images/IMG_6494.JPG =640x)
+![Wine Fridge](http://ajjimenez.github.io/Octo-Bar/images/IMG_6494.JPG =640x)
 
 Wine Fridge and Standard Dishwasher
 
