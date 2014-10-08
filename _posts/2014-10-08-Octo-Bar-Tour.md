@@ -1,5 +1,11 @@
+---
+layout: posts
+title: Quick tour of the Octo-Bars
+---
 
-#Quick tour of the Octo-Bars
+
+#{{ page.title }}
+
 **All Images are Private and not for Distribution.**
 
 ##Speakeasy
